@@ -1,0 +1,11 @@
+QUESTAO 03
+**[FIGURA: Uma imagem simula uma caixa de diálogo de um programa de computador, intitulada "70% Deleted" (70% Excluído), com botões de minimizar, maximizar/restaurar e fechar. Dentro da caixa, no canto superior esquerdo, há uma imagem do planeta Terra. À direita da Terra, uma sequência de quatro ícones ilustra árvores em diferentes estágios de degradação: a primeira é uma árvore frondosa e verde; a segunda, um pouco menor e menos folhosa; a terceira, mais seca, com poucas folhas; e a quarta, um tronco nu e seco. Abaixo dos ícones, uma barra de progresso azul indica aproximadamente 70% de preenchimento. Abaixo da barra de progresso, há os seguintes campos de texto: "Estimated time left: 2 decades (713KB Million items removed)" (Tempo estimado restante: 2 décadas (713KB Milhões de itens removidos)), "Removed by: World:\Users\....." (Removido por: Mundo:\Usuários\.....) e "Remove rate: 1000/Sec" (Taxa de remoção: 1000/Seg). Na parte inferior da caixa de diálogo, há três botões: "Open" (Abrir), "Open Folder" (Abrir Pasta) e "Cancel" (Cancelar).]**
+
+Disponível em: www.hongkiat.com. Acesso em: 18 ago. 2017 (adaptado).
+
+O texto estabelece uma relação entre elementos da natureza e comandos de um programa de computador para
+A alertar as pessoas sobre a rápida destruição da natureza.
+B conscientizar os indivíduos sobre a passagem acelerada do tempo.
+C apresentar aos leitores os avanços tecnológicos na área da agricultura.
+D orientar os usuários sobre o emprego sustentável das novas tecnologias.
+E informar os interessados sobre o tempo de crescimento de novas árvores.
